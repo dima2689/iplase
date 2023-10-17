@@ -1,0 +1,115 @@
+---
+id: Xiaomi
+brand: Xiaomi
+question: Xiaomi
+answer: 'Ремонт за 15-30 минут от 490 р. 100% гарантия. Комплектующие класса "Original"'
+models:
+    - 13
+    - 13 Lite
+    - 13 Pro
+    - 12X
+    - 12
+    - 12 Pro
+    - Mi 4
+    - Mi 4C
+    - Mi 4i
+    - Mi 5
+    - Mi 5S
+    - Mi 5S Plus
+    - Mi 6
+    - Mi 8
+    - Mi 8 Explorer
+    - Mi 8 Lite
+    - Mi 8 Pro
+    - Mi 8 SE
+    - Mi 9
+    - Mi 9 Lite
+    - Mi 9 Pro
+    - Mi 9 SE
+    - MI 9T
+    - MI 9T Pro
+    - Mi 10
+    - Mi 10 Lite
+    - Mi 10 Pro
+    - Mi 10T
+    - Mi 10T Lite
+    - Mi 10T Pro
+    - Mi 11
+    - Mi 11 Lite 5G
+    - Mi 11 Ultra
+    - Mi 13
+    - Mi A1
+    - Mi A2
+    - Mi A2 Lite
+    - Mi A3
+    - Mi Max
+    - Mi Max 2
+    - Mi Max 3
+    - Mi Mix 2
+    - Mi Mix 2S
+    - Mi Mix 3
+    - Mi Note
+    - Mi Note 2
+    - Mi Note 3
+    - Mi Note 10
+    - Mi Note 10 Lite
+    - Mi Note 10 Pro
+    - Mi Play
+    - Poco X2
+    - Pocophone F1
+    - Redmi 3
+    - Redmi 3S
+    - Redmi 4
+    - Redmi 4 Pro/Prime
+    - Redmi 4A
+    - Redmi 4X
+    - Redmi 5
+    - Redmi 5 Plus
+    - Redmi 5A
+    - Redmi 6
+    - Redmi 6 Pro
+    - Redmi 6A
+    - Redmi 7
+    - Redmi 7a
+    - Redmi Note 7 Pro
+    - Redmi 8
+    - Redmi 8a
+    - Redmi 9
+    - Redmi 9A
+    - Redmi 9C
+    - Redmi 9T
+    - Redmi Go
+    - Redmi Note 2 Prime
+    - Redmi Note 3
+    - Redmi Note 3 Pro
+    - Redmi Note 4
+    - Redmi Note 4X
+    - Redmi Note 5
+    - Redmi Note 5 Pro
+    - Redmi Note 5a
+    - Redmi Note 5A Prime
+    - Redmi Note 6
+    - Redmi Note 6 Pro
+    - Redmi Note 7
+    - Redmi Note 8
+    - Redmi Note 8 Pro
+    - Redmi Note 8T
+    - Redmi Note 9
+    - Redmi Note 9 Pro
+    - Redmi Note 9S
+    - Redmi Note 9T
+    - Redmi Note 10
+    - Redmi Note 10 Pro
+    - Redmi S2
+problems:
+    - Разбит экран
+    - Батарея
+    - Кнопка вкл / выкл
+    - Камера
+    - Микрофон
+    - Динамик разговорный
+    - Динамик полифонический
+    - Разбито стекло
+    - Корпус
+    - Разъем зарядки
+---

@@ -1,0 +1,80 @@
+---
+id: Honor
+brand: Honor
+question: Honor
+answer: 'Ремонт за 15-30 минут от 490 р. 100% гарантия. Комплектующие класса "Original"'
+models:
+    - 20E
+    - 3C Lite
+    - 3X
+    - 4C Pro
+    - 4X
+    - 5A
+    - 5C
+    - 5X
+    - 6
+    - 6 Plus
+    - 6A
+    - 6C
+    - 6C Pro
+    - 6X
+    - 7
+    - 7A
+    - 7A Pro
+    - 7C
+    - 7C Pro
+    - 7S
+    - 7X
+    - 8
+    - 8 Lite
+    - 8 Pro
+    - 8A
+    - 8A Pro
+    - 8C
+    - 8S
+    - 8X
+    - 8X Max
+    - 9
+    - 9 Lite
+    - 9A
+    - 9C
+    - 9S
+    - 9X
+    - 10
+    - 10 Lite
+    - 10 Premium
+    - 10i
+    - 10x Lite
+    - 20
+    - 20 Lite
+    - 20 Pro
+    - 20I
+    - 20S
+    - 30
+    - 30 Pro
+    - 30 Pro Plus
+    - 30i
+    - 30S
+    - 50
+    - 50 lite
+    - Magic 2
+    - Note 8
+    - Note 10
+    - Play
+    - View 10
+    - View 20
+    - View 30 Pro
+    - X8
+problems:
+    - Разбит экран
+    - Батарея
+    - Кнопка вкл / выкл
+    - Камера
+    - Микрофон
+    - Динамик разговорный
+    - Динамик полифонический
+    - Разбито стекло
+    - Корпус
+    - Разъем зарядки
+---
+
